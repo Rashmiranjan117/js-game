@@ -5,7 +5,7 @@
 }
 
 #canvas1 {
-  background: url(../assets/all_project_images/background.png);
+  background: url(https://user-images.githubusercontent.com/107473816/224479644-ff0e103c-f109-490c-b3b9-590634d01be5.png);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -23,6 +23,7 @@
 #obstacles,
 #bull,
 #egg,
-#toad ,#larva{
+#toad,
+#larva {
   display: none;
 }
